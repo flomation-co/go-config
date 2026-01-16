@@ -16,7 +16,7 @@ with other developers, please feel free to submit a Pull Request with changes.
 
 Within your Golang project
 
-`get get github.com/flomation-co/go-config`
+`go get github.com/flomation-co/go-config`
 
 ## Usage
 

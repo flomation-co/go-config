@@ -1,0 +1,17 @@
+{
+  "name": "Good Test Config",
+  "details": {
+    "some-string": "This is a test string",
+    "some-number": 1234,
+    "some-boolean": true
+  },
+  "array": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "enabled": true,
+  "amount": 32.6
+}
